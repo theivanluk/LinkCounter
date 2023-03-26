@@ -11,5 +11,3 @@ const app: Application = createApp(new SQLDataAccess);
 const port: number = Number(process.env.PORT) || 8080;
 
 app.listen(port, () => { console.log(`Listening on Port: ${port}`) });
-
-
