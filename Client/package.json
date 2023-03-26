@@ -1,0 +1,19 @@
+{
+  "name": "link_counter_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theivanluk/LinkCounter.git"
+  },
+  "author": "Ivan luk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theivanluk/LinkCounter/issues"
+  },
+  "homepage": "https://github.com/theivanluk/LinkCounter#readme"
+}
